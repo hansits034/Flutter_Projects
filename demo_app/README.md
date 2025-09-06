@@ -3,7 +3,8 @@
 This repository documents my very first attempt at building a mobile application using Flutter. The entire project was created by following a tutorial on YouTube.
 
 ## Preview
-<img width="2559" height="1250" alt="image" src="https://github.com/user-attachments/assets/f473e033-4ece-4b87-a500-00da94150ba0" />
+<img width="2556" height="1360" alt="image" src="https://github.com/user-attachments/assets/362ac973-0dc4-409f-b7fc-0843218268ac" />
+
 
 Deployed: https://hanssyfirstflutter.netlify.app/
 
