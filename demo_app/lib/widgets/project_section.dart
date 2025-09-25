@@ -15,9 +15,9 @@ class ProjectsSection extends StatelessWidget {
                 padding: EdgeInsets.fromLTRB(25, 20, 25, 60),
                 child: Column(
                   children: [
-                    //work project title
+                    //Hobby project title
                     const Text(
-                      "Work Projects",
+                      "Hobby Projects",
                       style: TextStyle(
                         fontSize: 24,
                         fontWeight: FontWeight.bold,
@@ -26,7 +26,7 @@ class ProjectsSection extends StatelessWidget {
                     ),
 
                     const SizedBox(height: 50),
-                    // work  project cards
+                    // Hobby  project cards
                     ConstrainedBox(
                       constraints: const BoxConstraints(maxWidth: 950),
                       child: Wrap(
@@ -43,9 +43,9 @@ class ProjectsSection extends StatelessWidget {
 
                     
                     const SizedBox(height: 80),
-                    // Hobby project title
+                    // Assignment project title
                     const Text(
-                      "Hobby Projects",
+                      "Assignment Projects",
                       style: TextStyle(
                         fontSize: 24,
                         fontWeight: FontWeight.bold,
@@ -54,7 +54,7 @@ class ProjectsSection extends StatelessWidget {
                     ),
 
                     const SizedBox(height: 50),
-                    // Hobby project cards
+                    // Assignment project cards
                     ConstrainedBox(
                       constraints: const BoxConstraints(maxWidth: 950),
                       child: Wrap(

@@ -29,7 +29,7 @@ class SkillsDesktop extends StatelessWidget {
                                   ),
                                   child: ListTile(
                                     contentPadding: const EdgeInsets.symmetric(horizontal: 20, vertical: 10,),
-                                    leading: Image.asset(platformItems[i]["img"],width: 26,),
+                                    leading: Image.asset(platformItems[i]["img"],width: 26,color: Colors.white,),
                                     title: Text(platformItems[i]["title"]),
                                   ),
                                 )

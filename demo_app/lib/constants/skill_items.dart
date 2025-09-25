@@ -8,12 +8,12 @@ const List<Map> platformItems = [
     "title": "Web Dev",
   },
   {
-    "img": "assets/ios_icon.png",
-    "title": "IOS Dev",
+    "img": "assets/aiml.png",
+    "title": "AI/ML Engineer",
   },
   {
-    "img": "assets/desktop_icon.png",
-    "title": "Desktop Dev",
+    "img": "assets/nlp.png",
+    "title": "NLP Engineer",
   }
 ];
 
@@ -39,12 +39,24 @@ const List<Map> skillItems = [
     "title": "JS",
   },
   {
-    "img": "assets/hugo.png",
-    "title": "Hugo",
+    "img": "assets/react.png",
+    "title": "React",
   },
   {
     "img": "assets/docker.png",
     "title": "Docker",
+  },
+  {
+    "img": "assets/C.png",
+    "title": "C",
+  },
+  {
+    "img": "assets/java.png",
+    "title": "Java",
+  },
+  {
+    "img": "assets/go.png",
+    "title": "Go",
   },
   {
     "img": "assets/python.png",
